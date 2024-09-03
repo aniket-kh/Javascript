@@ -1,5 +1,5 @@
 
-"use strict"
+"use strict" // engine always use newer version of js
 
 let name = "Aniket"
 let age = 27
